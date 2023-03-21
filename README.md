@@ -1,7 +1,7 @@
 ### Hi there, I'm Goran  👋 
 
 
-## I'm an Applied Scientist at Fraunhofer IEM! [<img align="right" alt="orcid id: 0000-0003-4424-5838" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" />][orcid]
+## I'm an Applied Scientist at Amazon Web Services [<img align="right" alt="orcid id: 0000-0003-4424-5838" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" />][orcid]
 
 I'm interested in: 
 - Static code analysis
