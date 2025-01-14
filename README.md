@@ -5,9 +5,8 @@
 
 I'm interested in: 
 - Static code analysis
+- Privacy Engineering
 - Application Security
-- Kotlin/Java/Android
-- Machine learning on code
 - Empirical software engineering
 - Open science
 
